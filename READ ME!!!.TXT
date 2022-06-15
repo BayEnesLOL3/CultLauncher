@@ -1,0 +1,9 @@
+*****************************
+Name: Cult Launcher 
+Creator: @Slendermanch
+Created in C#
+File: .exe
+Version: 6.6.6.6
+OS Support: winXP/ win7/win10/win11
+The new update is coming....
+*****************************
