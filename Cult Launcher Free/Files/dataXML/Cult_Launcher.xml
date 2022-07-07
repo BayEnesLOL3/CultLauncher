@@ -1,0 +1,1057 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cult_Launcher</name>
+    </assembly>
+    <members>
+        <member name="F:Cult_Launcher.AboutBox1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.AboutBox1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.AboutBox1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.blue_skull2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.blue_skull2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.blue_skull2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.calculator_xa.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.calculator_xa.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.calculator_xa.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.SRCCOPY">
+            <summary>dest = source</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.SRCPAINT">
+            <summary>dest = source OR dest</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.SRCAND">
+            <summary>dest = source AND dest</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.SRCINVERT">
+            <summary>dest = source XOR dest</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.SRCERASE">
+            <summary>dest = source AND (NOT dest)</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.NOTSRCCOPY">
+            <summary>dest = (NOT source)</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.NOTSRCERASE">
+            <summary>dest = (NOT src) AND (NOT dest)</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.MERGECOPY">
+            <summary>dest = (source AND pattern)</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.MERGEPAINT">
+            <summary>dest = (NOT source) OR dest</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.PATCOPY">
+            <summary>dest = pattern</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.PATPAINT">
+            <summary>dest = DPSnoo</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.PATINVERT">
+            <summary>dest = pattern XOR dest</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.DSTINVERT">
+            <summary>dest = (NOT dest)</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.BLACKNESS">
+            <summary>dest = BLACK</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.WHITENESS">
+            <summary>dest = WHITE</summary>
+        </member>
+        <member name="F:Cult_Launcher.Class1.TernaryRasterOperations.CAPTUREBLT">
+            <summary>
+            Capture window as seen on screen.  This includes layered windows
+            such as WPF windows with AllowsTransparency="true"
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.Clutt3_Icon.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.Clutt3_Icon.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.Clutt3_Icon.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.clutt4_warning.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.clutt4_warning.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.clutt4_warning.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.clutt_3.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.clutt_3.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.clutt_3.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.cmd.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.cmd.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.cmd.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.dangerous_launcher.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.dangerous_launcher.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.dangerous_launcher.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.dangerous_page2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.dangerous_page2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.dangerous_page2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Cult_Launcher.DataSet1">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:Cult_Launcher.DataSet1.DataTable1DataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:Cult_Launcher.DataSet1.DataTable1Row">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:Cult_Launcher.DataSet1.DataTable1RowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.dll_injector.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.dll_injector.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.dll_injector.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.donut_code.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.donut_code.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.donut_code.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.download.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.download.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.download.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.element_glitch.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.element_glitch.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.element_glitch.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.F1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.F1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.F1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.fuck_payload.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.fuck_payload.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.fuck_payload.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.game_laucher.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.game_laucher.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.game_laucher.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.gdi_test.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.gdi_test.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.gdi_test.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.hacking_launcher.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.hacking_launcher.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.hacking_launcher.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.horror_payload.components">
+            <summary>
+            Designer variable used to keep track of non-visual components.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.horror_payload.Dispose(System.Boolean)">
+            <summary>
+            Disposes resources used by the form.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.horror_payload.InitializeComponent">
+            <summary>
+            This method is required for Windows Forms designer support.
+            Do not change the method contents inside the source code editor. The Forms designer might
+            not be able to load this method if it was changed manually.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.key_generator.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.key_generator.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.key_generator.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.kill_exp.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.kill_exp.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.kill_exp.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.License_key.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.License_key.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.License_key.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.Login.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.Login.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.Login.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.mbr_over.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.mbr_over.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.mbr_over.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.memz_clean.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.memz_clean.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.memz_clean.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.msg_spam.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.msg_spam.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.msg_spam.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.offline_mode.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.offline_mode.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.offline_mode.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.Payload_start.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.Payload_start.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.Payload_start.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.pinksavage.components">
+            <summary>
+            Designer variable used to keep track of non-visual components.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.pinksavage.Dispose(System.Boolean)">
+            <summary>
+            Disposes resources used by the form.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.pinksavage.InitializeComponent">
+            <summary>
+            This method is required for Windows Forms designer support.
+            Do not change the method contents inside the source code editor. The Forms designer might
+            not be able to load this method if it was changed manually.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.ransomware_code.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.ransomware_code.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.ransomware_code.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.secure_launcher.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.secure_launcher.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.secure_launcher.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.see_update.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.see_update.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.see_update.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.social_fail.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.social_fail.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.social_fail.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.social_last.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.social_last.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.social_last.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.social_last_payload.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.social_last_payload.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.social_last_payload.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.social_payload.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.social_payload.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.social_payload.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.social_sound.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.social_sound.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.social_sound.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.social_warning.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.social_warning.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.social_warning.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.sound_launcher.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.sound_launcher.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.sound_launcher.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.taskmgr.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.taskmgr.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.taskmgr.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.trojan_locker.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.trojan_locker.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.trojan_locker.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.Virus_last.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.Virus_last.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.Virus_last.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.virus_last_again.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.virus_last_again.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.virus_last_again.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.Virus_payload.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.Virus_payload.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.Virus_payload.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.Virus_sound.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.Virus_sound.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.Virus_sound.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.Windows7_spam.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.Windows7_spam.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.Windows7_spam.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.windowssound.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.windowssound.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.windowssound.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.windows_horror.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.windows_horror.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.windows_horror.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.Windows_notification.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.Windows_notification.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.Windows_notification.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.windows_xp.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.windows_xp.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.windows_xp.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.worm_windows.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.worm_windows.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.worm_windows.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Cult_Launcher.system32.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Cult_Launcher.system32.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Cult_Launcher.system32.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Cult_Launcher.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.BANNER">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.download">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.obstacle_1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.obstacle_2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.OGC">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.OGC1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.PersonalTameHammerheadbird_size_restricted">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.red_skull_ico_1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.running">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.tenor">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Cult_Launcher.Properties.Resources.Untitled">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
