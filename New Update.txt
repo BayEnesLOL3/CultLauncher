@@ -1,5 +1,5 @@
 New update is coming...
-Update size: 943 KB
+Update size: 1643 KB
 Added: 
 Cult_System (Just with admin access)
 More performance
@@ -9,6 +9,8 @@ Cult Logs
 Fix bugs
 
 Date Relase: 
-24/07/2022
+30/07/2022
 
 Updated by @Lemo
+
+Sorry for release date but in the launcher exist some error!
