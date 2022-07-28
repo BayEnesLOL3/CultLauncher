@@ -1,5 +1,14 @@
 New update is coming...
-Update size: 1643 KB
+Update size: 1,786 KB
+
+All size:
+Performance Scripts: 70 KB
+Malware: 1,123 KB
+Colors: 234 KB
+Cult_System: 700 KB
+Logs: 2 KB
+Bugs: -343 KB
+
 Added: 
 Cult_System (Just with admin access)
 More performance
@@ -12,5 +21,3 @@ Date Relase:
 30/07/2022
 
 Updated by @Lemo
-
-Sorry for release date but in the launcher exist some error!
