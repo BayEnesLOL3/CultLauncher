@@ -1,5 +1,5 @@
 New update!
-Update size: ---- KB/MB
+Update size: 2,4 MB
 
 Last Update:
 1:35 PM 8/14/2022
@@ -10,6 +10,8 @@ More Performance
 More Colors 
 2 Big Malwares
 New stuff
+
+Status: Offline
 
 Date Relase: 
 25/11/2022
