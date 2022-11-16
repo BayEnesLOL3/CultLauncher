@@ -9,6 +9,7 @@ News:
 - Added Scripts 
 - New desing 
 - Updated System
+- Apps Fixed
 
 Update Size
 4 MB - 5 MB
@@ -17,4 +18,4 @@ Updated by @Slendermanch (Admin)
 
 - Official Discord Server: https://discord.gg/2bSy6VEB
 
-17 Nov The New Update 
+23 Nov The New Update 
